@@ -1,0 +1,2 @@
+# Face-Recognition-using-FaceNet-for-Employee-Presense
+An implementation of the paper - "Face Recognition System using Facenet Algorithm for Employee Presence" by Ferry Cahyono  et al., 2020
