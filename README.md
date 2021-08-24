@@ -33,7 +33,7 @@ FaceNet was used to obtain feature vectors of the face images followed by Suppor
 FaceNet weights can be obtained here: https://github.com/nyoki-mtl/keras-facenet
 
 # Results
-An classification accuracy of 100% was obtained on the dataset of 209 subjects.
+## Classification accuracy of 100% was obtained on the dataset of 209 subjects.   
 Given below is the visualization of the 2D feature vectors obtained by performing PCA analysis on the FaceNet outputs of 'Sample Data' train images.  
   
 ![WhatsApp Image 2021-08-23 at 7 05 23 PM](https://user-images.githubusercontent.com/68325029/130456700-d44280e1-046e-47f8-9a4e-cb5cba832c54.jpeg)
